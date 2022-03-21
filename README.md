@@ -25,18 +25,18 @@ Functions of ratio score computing, used by the run_aggregated_classifier.R scri
 Script for characterizing the top classifier hits.
 Using XGBoost algorithm for ...(TBD), LIME explainer to explain the most confident predictions for each functional module and SHAP method to estimate overall feature importance.
 Input files: 
-new_classifier_genes_without_SPO11_464_genes.csv - list of 464 classifier genes
-new_HRR_gold_standard_genes_and_modules.csv - list of 78 GS genes with modules
-string_fields_without_SPO11.csv - data from STRING
+classifier_464_genes.csv - list of 464 classifier genes
+HRR_gold_standard_genes_and_modules.csv - list of 78 GS genes with modules
+string_fields.csv - data from STRING
 S4_classifier_extra_fields.csv
 MRS: 6 files of "HPA_coexpression_*.csv" and 6 files of "CladePP_*.csv" (one for each module)
 
 ## draw_networkx_for_prediction.ipynb
 Creates edges for network figures (TBD!!)
 Input files:
-new_HRR_gold_standard_genes_and_modules.csv
-HPA_coxpression_MRS_without_SPO11.tsv - co-expression data
-CladePP_without_SPO11.tsv - MRS table for all genes
-string_fields_without_SPO11.csv - data from STRING
+HRR_gold_standard_genes_and_modules.csv
+HPA_coxpression_MRS.tsv - co-expression data
+CladePP.tsv - MRS table for all genes
+string_fields.csv - data from STRING
 xgboost_predictions_classifier_genes_13012022.csv - xgboost predictions for 385 classifier genes
 list of genes for networks
