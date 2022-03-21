@@ -1,0 +1,79 @@
+Gene,Functional module
+H2AFX,DSB recognition
+HUS1,DSB recognition
+MRE11A,DSB recognition
+NBN,DSB recognition
+RAD1,DSB recognition
+RAD17,DSB recognition
+RAD50,DSB recognition
+RAD9A,DSB recognition
+TOPBP1,DSB recognition
+RBBP8,End resection
+DNA2,End resection
+EXO1,End resection
+RPA1,End resection
+BRIP1,Fanconi anemia pathway
+FAAP100,Fanconi anemia pathway
+FAAP20,Fanconi anemia pathway
+FAAP24,Fanconi anemia pathway
+FANCA,Fanconi anemia pathway
+FANCB,Fanconi anemia pathway
+FANCC,Fanconi anemia pathway
+FANCD2,Fanconi anemia pathway
+FANCE,Fanconi anemia pathway
+FANCF,Fanconi anemia pathway
+FANCG,Fanconi anemia pathway
+FANCI,Fanconi anemia pathway
+FANCL,Fanconi anemia pathway
+FANCM,Fanconi anemia pathway
+STRA13,Fanconi anemia pathway
+APITD1,Fanconi anemia pathway
+ATRIP,Regulation (DNA damage response)
+ATM,Regulation (DNA damage response)
+ATR,Regulation (DNA damage response)
+BARD1,Regulation (DNA damage response)
+BRCA1,Regulation (DNA damage response)
+CHEK1,Regulation (DNA damage response)
+CHEK2,Regulation (DNA damage response)
+CLSPN,Regulation (DNA damage response)
+MDC1,Regulation (DNA damage response)
+PALB2,Regulation (DNA damage response)
+RECQL5,Regulation (DNA damage response)
+RNF168,Regulation (DNA damage response)
+RNF8,Regulation (DNA damage response)
+TP53BP1,Regulation (DNA damage response)
+ATRX,Strand invasion & D-loop formation
+BRCA2,Strand invasion & D-loop formation
+DMC1,Strand invasion & D-loop formation
+FBXO18,Strand invasion & D-loop formation
+HLTF,Strand invasion & D-loop formation
+MCPH1,Strand invasion & D-loop formation
+MND1,Strand invasion & D-loop formation
+PSMC3IP,Strand invasion & D-loop formation
+RAD51,Strand invasion & D-loop formation
+RAD51B,Strand invasion & D-loop formation
+RAD51C,Strand invasion & D-loop formation
+RAD51D,Strand invasion & D-loop formation
+RAD52,Strand invasion & D-loop formation
+RAD54B,Strand invasion & D-loop formation
+RAD54L,Strand invasion & D-loop formation
+RAD54L2,Strand invasion & D-loop formation
+RECQL4,Strand invasion & D-loop formation
+WRN,Strand invasion & D-loop formation
+XRCC2,Strand invasion & D-loop formation
+BLM,Synthesis and Holiday junctions processing
+EME1,Synthesis and Holiday junctions processing
+ERCC4,Synthesis and Holiday junctions processing
+FEN1,Synthesis and Holiday junctions processing
+GEN1,Synthesis and Holiday junctions processing
+LIG1,Synthesis and Holiday junctions processing
+MUS81,Synthesis and Holiday junctions processing
+PCNA,Synthesis and Holiday junctions processing
+POLD1,Synthesis and Holiday junctions processing
+POLE,Synthesis and Holiday junctions processing
+RMI1,Synthesis and Holiday junctions processing
+RTEL1,Synthesis and Holiday junctions processing
+SLX1A,Synthesis and Holiday junctions processing
+SLX4,Synthesis and Holiday junctions processing
+TOP3A,Synthesis and Holiday junctions processing
+XRCC3,Synthesis and Holiday junctions processing
