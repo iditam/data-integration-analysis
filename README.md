@@ -15,7 +15,9 @@ in which clade and its MRS score.
 
 ## run_aggregated_classifier.R
 The code of the Naïve Bayesian classifier
+
 Input: Gs genes, input data matrix
+
 Output: table of all genes with classifier scores
 
 ## utils.R
