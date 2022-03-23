@@ -39,19 +39,3 @@ S4_classifier_extra_fields.csv
 
 MRS: 6 files of "HPA_coexpression_*.csv" and 6 files of "CladePP_*.csv" (one for each module)
 
-## draw_networkx_for_prediction.ipynb
-Creates edges for network figures integrating co-expression, protein-protein interactions and co-evolution (phylogenetic profiling)
-
-Input files:
-
-HRR_gold_standard_genes_and_modules.csv
-
-HPA_coxpression_MRS.tsv - co-expression data
-
-CladePP.tsv - MRS table for all genes
-
-string_fields.csv - data from STRING
-
-xgboost_predictions_classifier_genes_13012022.csv - xgboost predictions for 385 classifier genes
-
-list of genes for networks
